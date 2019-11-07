@@ -1,0 +1,741 @@
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:145a47d4-d906-4266-b8a2-bc809d020260
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:36491c63-57f1-40fb-b994-bfcb19dd8160
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:b2346524-b79c-4f8b-9781-2f15bc325c4e
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:0536d13f-0550-4ac7-8acd-c116e5ab3323
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:bd811156-7f0c-4245-a2f1-14a318320694
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:wiotp.sdk.application.client.ApplicationClient:Connected successfully: a:j4fntv:5e6f6110-5990-4869-9e2e-f6f1425c0b40
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:django.utils.autoreload:/home/tungong191/Desktop/virtual-smarthome/smarthome/smarthome/views.py changed, reloading.
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler
+INFO:background_task.tasks:Running smarthome.views.scheduler
+INFO:background_task.tasks:Ran task and deleting smarthome.views.scheduler

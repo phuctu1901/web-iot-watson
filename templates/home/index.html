@@ -1,0 +1,193 @@
+{% load static %}
+<!doctype html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Smart Room by Tuan-Tu-Team</title>
+	<meta name="description" content="Pi House Demo">
+	<meta name="author" content="Tomomi Imura  @girlie_mac">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href='{% static "dist/bootstrap-4.3.1/css/bootstrap.css" %}'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<link rel="stylesheet" href='{% static "css/style.css"%}'>
+
+</head>
+
+<body>
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PZWSZ2" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-PZWSZ2');</script>
+	<!-- End Google Tag Manager -->
+	<header>
+		<img src="/static/images/lego.png">
+		SMART ROOM <strong>IBM IoT Watson Platform</strong>
+		<div class="pubnub"></div>
+	</header>
+	<section class="container">
+
+		<section class="temp-hum-display">
+			<section class="temp-container">
+				<div class="temp" data-temperature="{{temp}}"><span>℃</span></div>
+			</section>
+			<section class="hum-container">
+				<div class="hum" data-humidity="45"><span class="fa wet"> &#37;</span></div>
+			</section>
+		</section>
+
+		<section class="pref-container">
+			<section class="preference">
+				<div class="col col-md12">
+					<button type="button" class="btn btn-info" onclick="load_ajax_getlightstate()">Làm mới</button>
+
+				</div>
+
+				<div>
+					<div class="caption">Đèn 1</div>
+					<label for="led1" id="led1">
+						Đang bật
+					</label>
+					<button type="button" class="btn btn-danger" onclick="load_ajax_button1()">Switch light 1</button>
+
+				</div>
+
+				<div>
+					<div class="caption">Đèn 2</div>
+					<button type="button" class="btn btn-primary" onclick="load_ajax_button2()">Switch light 2</button>
+
+					<label for="led2" id="led2">
+						Đang bật
+					</label>
+				</div>
+
+
+			</section>
+
+		</section>
+
+	</section>
+
+	<footer>
+
+	</footer>
+
+	<script src="http://cdn.pubnub.com/pubnub-3.7.11.min.js"></script>
+	<script src='{% static "js/app.js" %}'></script>
+	<script src='{% static "dist/bootstrap-4.3.1/js/bootstrap.js" %}'></script>
+	<script src="https://js.pusher.com/5.0/pusher.min.js"></script>
+	<script>
+
+		// Enable pusher logging - don't include this in production
+		Pusher.logToConsole = false;
+
+		var pusher = new Pusher('5a13a066a0cff0149750', {
+			cluster: 'ap1',
+			forceTLS: true
+		});
+
+		var channel = pusher.subscribe('my-channel');
+		channel.bind('my-event', function (data) {
+
+			document.getElementsByClassName('temp')[0].setAttribute("data-temperature", data.temp);
+			document.getElementsByClassName('hum')[0].setAttribute("data-humidity", data.hum);
+		});
+
+		channel.bind('button_switch', function (data) {
+			// console.log(data)
+			if (data.button === 1){
+				if(data.value===1){
+					$("#led1").text("Đang tắt")
+				}else{
+					$("#led1").text("Đang bật")
+
+				}
+			}
+
+			if (data.button === 2){
+				if(data.value===1){
+					$("#led2").text("Đang tắt")
+				}else{
+					$("#led2").text("Đang bật")
+				}
+				
+			}
+			// document.getElementsByClassName('temp')[0].setAttribute("data-temperature", data.temp);
+			// document.getElementsByClassName('hum')[0].setAttribute("data-humidity", data.hum);
+		});
+
+		channel.bind('getLightState', function (data) {
+			if(data.relay1 === 1){
+						$("#led1").text("Đang tắt")
+					}else{
+						$("#led1").text("Đang bật")
+					}
+
+					if(data.relay2 === 1){
+						$("#led2").text("Đang tắt")
+					}else{
+						$("#led2").text("Đang bật")
+					}
+		});
+		function load_ajax_button1() {
+			// console.log("Button 1 is pressed")
+			$.ajax({
+				url: "/button1/", // gửi ajax đến file result.php
+				type: "post", // chọn phương thức gửi là post
+				data: { // Danh sách các thuộc tính sẽ gửi đi
+					csrfmiddlewaretoken: '{{ csrf_token }}'
+				},
+				success: function (result) {
+					// Sau khi gửi và kết quả trả về thành công thì gán nội dung trả về
+					// đó vào thẻ div có id = result
+					// console.log("Button 1");
+				}
+			});
+		}
+		
+		function load_ajax_button2() {
+			// console.log("Button 2 is pressed")
+			$.ajax({
+				url: "/button2/", // gửi ajax đến file result.php
+				type: "post", // chọn phương thức gửi là post
+				data: { // Danh sách các thuộc tính sẽ gửi đi
+					csrfmiddlewaretoken: '{{ csrf_token }}'
+				},
+				success: function (result) {
+					// Sau khi gửi và kết quả trả về thành công thì gán nội dung trả về
+					// đó vào thẻ div có id = result
+					console.log("Button 2");
+				}
+			});
+		}
+
+		function load_ajax_getlightstate() {
+			// console.log("Get light state")
+			$.ajax({
+				url: "/getlightstate/", // gửi ajax đến file result.php
+				type: "post", // chọn phương thức gửi là post
+				data: { // Danh sách các thuộc tính sẽ gửi đi
+					csrfmiddlewaretoken: '{{ csrf_token }}'
+				},
+				success: function () {
+					// Sau khi gửi và kết quả trả về thành công thì gán nội dung trả về
+					// đó vào thẻ div có id = result
+					console.log("success")
+				}
+			});
+		}
+
+		load_ajax_getlightstate();
+	</script>
+</body>
+
+</html>
