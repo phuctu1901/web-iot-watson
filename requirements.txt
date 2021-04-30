@@ -40,7 +40,7 @@ six==1.12.0
 sqlparse==0.3.0
 Twisted==19.7.0
 txaio==18.8.1
-urllib3==1.25.3
+urllib3==1.25.8
 whitenoise==4.1.3
 wiotp-sdk==0.9.5
 zope.interface==4.6.0
